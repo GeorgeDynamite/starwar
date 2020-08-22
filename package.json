@@ -1,10 +1,9 @@
 {
   "name": "starwars-express",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.17.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -13,5 +12,14 @@
     "watch": "nodemon server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeDynamite/starwar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GeorgeDynamite/starwar/issues"
+  },
+  "homepage": "https://github.com/GeorgeDynamite/starwar#readme",
+  "description": ""
 }
